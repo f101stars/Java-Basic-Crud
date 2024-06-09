@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+\\192.168.10.1\scan\000 מכלול - תכנות - שנה ב תשפג\JAVA שנה ב\תלמידות\פייגי\demo\.metadata\.plugins\org.eclipse.jdt.core
+3435648363.index
+3924785100.index
+1865797976.index
